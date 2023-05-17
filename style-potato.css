@@ -1,0 +1,12 @@
+body{background-color: rgba(243, 226, 182, 0.849) ;
+color: rgb(155, 92, 9);
+margin-left: 4%;
+margin-right: 2%;}
+
+.potato {display: block;
+margin-left: auto;
+margin-right: auto;
+border-radius:15px 50px 30px;}
+
+.title,.firstTi,.secondTi,.lastTi,.first-pa{text-align: center;}
+.title,.firstTi,.secondTi,.lastTi{color: rgb(139, 70, 23);}
