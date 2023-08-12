@@ -1,17 +1,17 @@
 
-.title{text-align: center;
-color: rgb(0, 128, 122);}
+.title{display: block;
+    background-color: rgba(98, 153, 15, 0.5);
+    padding: 40px;
+    font-size:40px;
+    margin-left: 30%;
+    margin-right: 30%; 
+    text-align: center;
+color: rgb(25, 39, 38);}
 
 *{border-radius: 25px;
 margin-left: 1.5%;
 background-color: rgb(214, 209, 209);}
 
-#pic{height: 250px;
+#pic,#pictu,#picture{height: 250px;
 width: 350px;
-margin-top: 10%;}
-
-#pictu{height: 250px;
-width: 350px;}
-
-#picture {height: 250px;;
-width: 350px;}
+margin-top: 5%;}

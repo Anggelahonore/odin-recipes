@@ -5,6 +5,8 @@ margin-right: auto;
 width: 400px;
 height: auto;
 border-radius:15px 50px 30px;
+margin-top: 10px;
+margin-bottom: 25px;
 }
 
 body{
@@ -12,18 +14,32 @@ background-color:  rgb(218, 213, 213);
 color: rgb(105, 61, 20);
 text-align: center;
 margin-right: 10% ;
-margin-left: 10%;}
+margin-left: 10%;
+line-height : 30px;}
 
 #list1{text-align: left;}
 
-#list2{text-align: left;}
+#list2{text-align: left; display: block;
+margin-right: 50px;}
 
 #title {
 text-align: center;
 font-size: 40px;
-color: rgb(124, 170, 50);}
+color: rgb(124, 170, 50);
+background-color: rgba(138, 133, 133, 0.205);
+padding: 20px;
+margin-left: 20%;
+margin-right: 20%;
+border-radius: 25px;}
 
-.firstTi,.secondTi,.lastTi{color:  rgb(132, 184, 64);
+.firstTi,.secondTi,.lastTi{
+    color:  rgb(124, 170, 50);
+    background-color: rgba(105, 88, 88, 0.096);
+    border-radius: 25px; 
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-top: .1em;
+    padding-bottom: .1em;
 }
 
 

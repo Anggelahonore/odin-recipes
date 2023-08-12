@@ -1,4 +1,4 @@
-body{background-color: rgba(243, 226, 182, 0.849) ;
+body{background-color: rgba(243, 226, 182, 0.719) ;
 color: rgb(155, 92, 9);
 margin-left: 4%;
 margin-right: 2%;}
@@ -6,7 +6,34 @@ margin-right: 2%;}
 .potato {display: block;
 margin-left: auto;
 margin-right: auto;
-border-radius:15px 50px 30px;}
+border-radius:25px;
+height: 250px;
+width: 250;
+ ;}
 
-.title,.firstTi,.secondTi,.lastTi,.first-pa{text-align: center;}
-.title,.firstTi,.secondTi,.lastTi{color: rgb(139, 70, 23);}
+.title,.firstTi,.secondTi,.lastTi,.first-pa{
+text-align: center;}
+
+.title,.firstTi,.secondTi,.lastTi{
+color: rgb(139, 70, 23);
+background-color: rgba(255, 166, 0, 0.747);
+;}
+
+
+.title{padding: 30px;
+margin-left: 25%;
+margin-right: 25%;
+border-radius: 25px;
+margin-bottom: 3%;}
+
+.firstTi,.secondTi,.lastTi{
+padding: 0.1em;
+border-radius: 15px 50px 30px;
+margin-right:80%;
+margin-top: 2%;
+margin-bottom: 2%;}
+
+.list2{display: block;
+margin-right: 20%;
+line-height: 30px;}
+
